@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charith Eranga</h1>
 <h3 align="center">An undergraduate student at the University of Moratuwa</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eranga-dc&label=Profile%20views&color=0e75b6&style=flat" alt="eranga-dc" /> </p>
+
 - 🌱 I’m currently learning **React, CSS, Java script, HTML, NodeJS,**
 
 - 📫 How to reach me **Charith1299@gmail.com**
